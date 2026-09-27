@@ -31,11 +31,9 @@ navigazione web, GitHub riceve l'indirizzo IP del telefono e le normali informaz
 richiesta, secondo la sua informativa. L'app non invia alcun dato personale. I siti degli eventi
 non vengono contattati dal telefono: l'elenco lo prepara lo sviluppatore due volte al giorno.
 
-Quando si tocca il pulsante posizione di un evento, se l'elenco non contiene già le coordinate del luogo,
-l'app cerca il nome e il comune del locale su OpenStreetMap (nominatim.openstreetmap.org), che riceve
-quella ricerca e l'indirizzo IP del telefono. Poi il luogo viene aperto nell'app di mappe scelta
-dall'utente (Google Maps, Waze…), che ha le sue regole sulla privacy. DUB Italia non chiede e non legge
-la posizione del telefono.
+Il pulsante posizione di un evento apre il luogo nell'app di mappe scelta dall'utente (Google Maps,
+Waze…), passandole le coordinate pubblicate dal sito dell'evento oppure il nome del locale e del comune;
+l'app di mappe ha le sue regole sulla privacy. DUB Italia non chiede e non legge la posizione del telefono.
 
 ## Minori
 
@@ -58,8 +56,7 @@ accounts, ads, analytics, trackers or third-party SDKs, and the only permission 
 access. The event list and favourites are stored only in the app's private storage on the device
 and are deleted when the app is uninstalled. When the user taps "Search", the app downloads a single public file,
 the DUB Italia event list published on GitHub (raw.githubusercontent.com); GitHub receives the device's
-IP address as with any web request, under its own privacy policy. Only when the user taps the location
-button of an event whose coordinates are missing, the venue name and town are looked up on OpenStreetMap
-(nominatim.openstreetmap.org); the place then opens in the maps app chosen by the user. The app never asks
+IP address as with any web request, under its own privacy policy. The location button of an event opens the place in the maps app chosen by the user, passing the
+coordinates published by the event's website or the venue name and town. The app never asks
 for or reads the device location. No personal data is sent to anyone.
 Contact: valesitemanager@gmail.com.
