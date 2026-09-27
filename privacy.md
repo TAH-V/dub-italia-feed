@@ -35,6 +35,14 @@ Il pulsante posizione di un evento apre il luogo nell'app di mappe scelta dall'u
 Waze…), passandole le coordinate pubblicate dal sito dell'evento oppure il nome del locale e del comune;
 l'app di mappe ha le sue regole sulla privacy. DUB Italia non chiede e non legge la posizione del telefono.
 
+Il pulsante condividi prepara un messaggio con il nome, il luogo e le date dell'evento e due link alla posizione,
+uno per Google Maps (www.google.com/maps) e uno per Waze (waze.com); l'utente sceglie l'app a cui mandarlo. DUB Italia
+non contatta Google né Waze e non invia nulla da sola: i link li apre solo chi riceve il messaggio.
+
+Nella pagina di un evento ci possono essere dei **link utili** (pagina social dell'evento, sito dell'organizzatore o
+del locale, pagina dei biglietti). Si aprono solo se l'utente li tocca, nel browser o nell'app scelta dal telefono:
+quel sito riceve la visita come qualsiasi pagina web e ha le sue regole sulla privacy. DUB Italia non li apre da sola.
+
 ## Minori
 
 L'app non è rivolta specificamente ai minori e non raccoglie dati di nessun utente.
@@ -58,5 +66,7 @@ and are deleted when the app is uninstalled. When the user taps "Search", the ap
 the DUB Italia event list published on GitHub (raw.githubusercontent.com); GitHub receives the device's
 IP address as with any web request, under its own privacy policy. The location button of an event opens the place in the maps app chosen by the user, passing the
 coordinates published by the event's website or the venue name and town. The app never asks
-for or reads the device location. No personal data is sent to anyone.
+for or reads the device location. The share button prepares a message with the event's name, place and dates
+and two links to the location, for Google Maps (www.google.com/maps) and Waze (waze.com), sent through the app
+chosen by the user; DUB Italia itself does not contact Google or Waze. Useful links on an event page (social page, organiser's or venue's website, tickets) open only when the user taps them. No personal data is sent to anyone.
 Contact: valesitemanager@gmail.com.
