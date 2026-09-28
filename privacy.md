@@ -43,6 +43,11 @@ Nella pagina di un evento ci possono essere dei **link utili** (pagina social o 
 del locale). Si aprono solo se l'utente li tocca, nel browser o nell'app scelta dal telefono:
 quel sito riceve la visita come qualsiasi pagina web e ha le sue regole sulla privacy. DUB Italia non li apre da sola.
 
+In fondo alla lista c'è **"Manca un evento DUB? Segnalacelo"**: apre l'app di posta dell'utente con un'email già
+pronta per valesitemanager@gmail.com. DUB Italia non invia niente da sola: l'email la manda l'utente, se vuole. Chi
+ci scrive ci fa conoscere il suo indirizzo email e quello che scrive; li usiamo solo per verificare l'evento e
+rispondere, non li diamo a nessuno e cancelliamo l'email quando non serve più.
+
 ## Minori
 
 L'app non è rivolta specificamente ai minori e non raccoglie dati di nessun utente.
@@ -68,5 +73,5 @@ IP address as with any web request, under its own privacy policy. The location b
 coordinates published by the event's website or the venue name and town. The app never asks
 for or reads the device location. The share button prepares a message with the event's name, place and dates
 and two links to the location, for Google Maps (www.google.com/maps) and Waze (waze.com), sent through the app
-chosen by the user; DUB Italia itself does not contact Google or Waze. Useful links on an event page (social page, organiser's or venue's website, tickets) open only when the user taps them. No personal data is sent to anyone.
+chosen by the user; DUB Italia itself does not contact Google or Waze. Useful links on an event page (social page or website of the event, the artists or the venue) open only when the user taps them. "Missing a DUB event? Let us know", at the end of the list, opens the user's email app with a ready-made email to valesitemanager@gmail.com: the app sends nothing itself. If the user writes to us, we receive their email address and message and use them only to check the event and reply; we do not share them and delete the email when no longer needed. No personal data is sent to anyone by the app.
 Contact: valesitemanager@gmail.com.
