@@ -39,8 +39,8 @@ Il pulsante condividi prepara un messaggio con il nome, il luogo e le date dell'
 uno per Google Maps (www.google.com/maps) e uno per Waze (waze.com); l'utente sceglie l'app a cui mandarlo. DUB Italia
 non contatta Google né Waze e non invia nulla da sola: i link li apre solo chi riceve il messaggio.
 
-Nella pagina di un evento ci possono essere dei **link utili** (pagina social dell'evento, sito dell'organizzatore o
-del locale, pagina dei biglietti). Si aprono solo se l'utente li tocca, nel browser o nell'app scelta dal telefono:
+Nella pagina di un evento ci possono essere dei **link utili** (pagina social o sito dell'evento, degli artisti e
+del locale). Si aprono solo se l'utente li tocca, nel browser o nell'app scelta dal telefono:
 quel sito riceve la visita come qualsiasi pagina web e ha le sue regole sulla privacy. DUB Italia non li apre da sola.
 
 ## Minori
