@@ -29,7 +29,7 @@ Quando si preme "Cerca", l'app scarica un solo file: l'elenco pubblico degli eve
 pubblicato su GitHub (raw.githubusercontent.com, servizio di GitHub, Inc.). Come per qualsiasi
 navigazione web, GitHub riceve l'indirizzo IP del telefono e le normali informazioni tecniche della
 richiesta, secondo la sua informativa. L'app non invia alcun dato personale. I siti degli eventi
-non vengono contattati dal telefono: l'elenco lo prepara lo sviluppatore due volte al giorno.
+non vengono contattati dal telefono: l'elenco lo prepara lo sviluppatore una volta al giorno.
 
 Il pulsante posizione di un evento apre il luogo nell'app di mappe scelta dall'utente (Google Maps,
 Waze…), passandole le coordinate pubblicate dal sito dell'evento oppure il nome del locale e del comune;
